@@ -1,7 +1,7 @@
 {
   "name": "ah-swaggerui-plugin",
   "author": "slattery",
-  "description": "BASED ON Swagger UI is a dependency-free collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API",
+  "description": "BASED ON Swagger UI needs to get a smart config that will read in and link spec.json from each plugin  like gitcheck kinda",
   "version": "0.0.1",
   "repository": {
     "type": "git",
